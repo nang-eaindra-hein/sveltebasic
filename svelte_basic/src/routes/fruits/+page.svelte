@@ -51,6 +51,7 @@
             addreset.addApple * addreset.applePrice
         
         );
+        
         bananaPriceTotal = $derived(
             addreset.addBanana * addreset.bananaPrice
         );
