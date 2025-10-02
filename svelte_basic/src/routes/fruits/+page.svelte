@@ -17,7 +17,6 @@
     let fruitDetails = $state(false);
     let fruitPrice = $state(false);
     
-
  
     class AddReset{
         addBanana = $state(0);
